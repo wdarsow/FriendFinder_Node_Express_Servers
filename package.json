@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder_node_express_servers",
+  "version": "1.0.0",
+  "description": "Express Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdarsow/FriendFinder_Node_Express_Servers.git"
+  },
+  "author": "WD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wdarsow/FriendFinder_Node_Express_Servers/issues"
+  },
+  "homepage": "https://github.com/wdarsow/FriendFinder_Node_Express_Servers#readme"
+}
