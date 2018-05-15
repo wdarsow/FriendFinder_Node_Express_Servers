@@ -207,6 +207,12 @@
             friends.push(userInput);
         });
 
+// the checkMatch function takes the new array from the new survey being filled out
+// and compares it to each of the other users' arrays that exist on the friends.js page
+// it compares each array to the new array and gets the absolute difference between each
+// index value and then adds up the total sum score for each of the array comparisons
+// the totalDifference with the lowest number is the match that is displayed on the result-modal
+
 /*
         let checkMatch = function() {
             $.get("/api/friends", function(req, res) {
